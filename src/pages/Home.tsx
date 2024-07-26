@@ -10,7 +10,6 @@ import {
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import ShineBorder from "@/components/magicui/shine-border";
-import DotPattern from "@/components/magicui/dot-pattern";
 import { VelocityScroll } from "@/components/magicui/scroll-based-velocity";
 import TextReveal from "@/components/magicui/text-reveal";
 
