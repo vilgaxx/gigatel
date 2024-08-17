@@ -11,18 +11,18 @@ const Legal = () => {
           </h1>
           <p className="py-10 text-lg w-4/5 mx-auto text-justify">
             The information contained in this website
-            (www.gigatelcommunication.in) is for general information purposes
-            only. This website is owned, operated, and managed by Gigatel
-            Communication Pvt. Ltd. (Gigatel) and is intended to provide
-            information about the products and services of Gigatel and its group
-            or associate companies. While we endeavor to keep the information
-            up-to-date and correct, we make no representations or warranties of
-            any kind, express or implied, about the completeness, accuracy
-            (whether technical or otherwise), typographical errors, reliability,
-            suitability, or availability with respect to the website or the
-            information, products, services, or related graphics contained on
-            the website for any purpose. Any reliance you place on such
-            information is therefore strictly at your own risk. In no event
+            (www.GigaZonecommunication.in) is for general information purposes
+            only. This website is owned, operated, and managed by GigaZone
+            Communication Pvt. Ltd. (GigaZone) and is intended to provide
+            information about the products and services of GigaZone and its
+            group or associate companies. While we endeavor to keep the
+            information up-to-date and correct, we make no representations or
+            warranties of any kind, express or implied, about the completeness,
+            accuracy (whether technical or otherwise), typographical errors,
+            reliability, suitability, or availability with respect to the
+            website or the information, products, services, or related graphics
+            contained on the website for any purpose. Any reliance you place on
+            such information is therefore strictly at your own risk. In no event
             shall we be liable for any loss or damage including without
             limitation, indirect or consequential loss or damage, or any loss or
             damage whatsoever arising from loss of data or profits arising out
@@ -30,34 +30,34 @@ const Legal = () => {
           </p>
           <p className="py-10 text-lg w-4/5 mx-auto text-justify">
             This website contains links to other websites which are not under
-            the control of Gigatel. We have no control over the nature, content,
-            and availability of those sites. The inclusion of any links does not
-            necessarily imply a recommendation or endorse the views expressed
-            within them. Gigatel will not be responsible for any damages,
-            including without limitation, any special, indirect, incidental, or
-            consequential damages, that may arise from any use of, inability to
-            use, or reliance on the site and/or the materials contained on the
-            site whether the materials contained on the site are provided by
-            Gigatel or by a third party. Gigatel cannot guarantee that
-            information (which may include personal information) transmitted by
-            the user to us or through the Service or to third parties will not
-            be intercepted by, or disclosed to, unauthorized parties during or
-            after transmission. Similarly, when we send a message to a third
-            party at the request of the user or as part of the Service, we also
-            cannot guarantee that the information contained in that message will
-            not be intercepted by, or disclosed to, unauthorized parties during
-            or after transmission.
+            the control of GigaZone. We have no control over the nature,
+            content, and availability of those sites. The inclusion of any links
+            does not necessarily imply a recommendation or endorse the views
+            expressed within them. GigaZone will not be responsible for any
+            damages, including without limitation, any special, indirect,
+            incidental, or consequential damages, that may arise from any use
+            of, inability to use, or reliance on the site and/or the materials
+            contained on the site whether the materials contained on the site
+            are provided by GigaZone or by a third party. GigaZone cannot
+            guarantee that information (which may include personal information)
+            transmitted by the user to us or through the Service or to third
+            parties will not be intercepted by, or disclosed to, unauthorized
+            parties during or after transmission. Similarly, when we send a
+            message to a third party at the request of the user or as part of
+            the Service, we also cannot guarantee that the information contained
+            in that message will not be intercepted by, or disclosed to,
+            unauthorized parties during or after transmission.
           </p>
           <p className="py-10 text-lg w-4/5 mx-auto text-justify">
             Every effort is made to keep the website up and running smoothly.
-            However, Gigatel takes no responsibility for, and will not be liable
-            for, the website being temporarily unavailable due to technical
-            issues beyond our control. Though we make every reasonable effort to
-            preserve user privacy, we may need to disclose personal information
-            when required by law or in any other situation wherein we have a
-            bonafide belief that such action is necessary to comply with a
-            current judicial proceeding, any court order, or legal process
-            served on us.
+            However, GigaZone takes no responsibility for, and will not be
+            liable for, the website being temporarily unavailable due to
+            technical issues beyond our control. Though we make every reasonable
+            effort to preserve user privacy, we may need to disclose personal
+            information when required by law or in any other situation wherein
+            we have a bonafide belief that such action is necessary to comply
+            with a current judicial proceeding, any court order, or legal
+            process served on us.
           </p>
           <p className="py-10 text-lg w-4/5 mx-auto text-justify">
             All details and conditions of specific offers and/or promotions are
@@ -89,20 +89,20 @@ const Legal = () => {
 
           <h4>Refund Policy</h4>
           <p className="py-10 text-lg w-4/5 mx-auto text-justify">
-            Gigatel Communication Pvt. Ltd. does not entertain refund of any
+            GigaZone Communication Pvt. Ltd. does not entertain refund of any
             amounts that may have been paid by the 'subscriber' for an Annual /
             Semi-Annual / Quarterly / Monthly plan. Only in case of
-            non-feasibility of a new connection, refund is made by Gigatel. The
-            time for a refund to be effected is 4-6 weeks. Gigatel provides
+            non-feasibility of a new connection, refund is made by GigaZone. The
+            time for a refund to be effected is 4-6 weeks. GigaZone provides
             service discounts in line with TRAI policy on the same, on a
-            case-to-case basis, as needed. In case of billing disputes, Gigatel
+            case-to-case basis, as needed. In case of billing disputes, GigaZone
             subscribers are required to email their specific concerns and the
             same will be addressed in 4-8 weeks, by way of a discount/credit
             note passed in the account of the 'subscriber'.
           </p>
           <h4>Privacy Policy</h4>
           <p className="py-10 text-lg w-4/5 mx-auto text-justify">
-            This policy covers how Gigatel Communication Pvt. Ltd. ("Company")
+            This policy covers how GigaZone Communication Pvt. Ltd. ("Company")
             treats personal information that the Company collects and receives,
             including information related to your past use of the Company's
             products and services. Personal information is information about you
@@ -177,6 +177,6 @@ const Legal = () => {
       </>
     </>
   );
-}
+};
 
-export default Legal
+export default Legal;

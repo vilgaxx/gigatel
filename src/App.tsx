@@ -1,4 +1,4 @@
-import {  Menu } from "lucide-react";
+import { Menu } from "lucide-react";
 import { Link, Outlet } from "react-router-dom";
 import { Button } from "./components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "./components/ui/sheet";
@@ -18,7 +18,7 @@ const App = () => {
               <img
                 className="h-10 w-auto"
                 src="src\assets\1transparent.png"
-                alt="Gigatel Logo"
+                alt="GigaZone Logo"
               />
               <span className="sr-only">WifiWala</span>
             </Link>
@@ -77,7 +77,7 @@ const App = () => {
                 <img
                   className="h-14 w-auto mb-2 "
                   src="src\assets\1transparent.png"
-                  alt="Gigatel Logo"
+                  alt="GigaZone Logo"
                 />
 
                 <span className="sr-only">WifiWala</span>
@@ -116,7 +116,7 @@ const App = () => {
       <main>
         <Outlet />
       </main>
-      <Footer/>
+      <Footer />
     </>
   );
 };

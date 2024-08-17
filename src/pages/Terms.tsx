@@ -24,8 +24,8 @@ const Terms = () => {
           changes.
           <br />
           Set out below are the Terms governing the access, use of, and
-          downloads from this website, www.gigatelcommunication.in ("Site"), and
-          includes any file or groups of files hosted on a computer and
+          downloads from this website, www.GigaZonecommunication.in ("Site"),
+          and includes any file or groups of files hosted on a computer and
           accessible by third parties through the internet by the use of any
           protocol used to transmit files through the internet and any
           collection of one or more inter-related web pages or documents which
@@ -39,9 +39,9 @@ const Terms = () => {
           You are advised to read the Terms carefully before accessing or
           registering on the Site. By accessing the Site, you are agreeing to
           the Terms, whether or not you are a registered user. Please contact
-          [support@gigatelcommunication.in] if you require any clarifications.
+          [support@GigaZonecommunication.in] if you require any clarifications.
           <br />
-          The materials on the Site are provided by GIGATEL COMMUNICATION PVT.
+          The materials on the Site are provided by GigaZone COMMUNICATION PVT.
           LTD., an Indian company, having its registered office at [Company's
           Address] ("the Company") as a service to its users and subscribers,
           and may be used for informational purposes only. If you do not agree

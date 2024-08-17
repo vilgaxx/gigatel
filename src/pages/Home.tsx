@@ -13,7 +13,6 @@ import ShineBorder from "@/components/magicui/shine-border";
 import { VelocityScroll } from "@/components/magicui/scroll-based-velocity";
 import TextReveal from "@/components/magicui/text-reveal";
 
-
 const Home = () => {
   return (
     <>
@@ -24,7 +23,7 @@ const Home = () => {
             <TypingAnimation
               duration={100}
               className="text-8xl font-bold uppercase "
-              text="Gigatel Communication"
+              text="GigaZone Communication"
             />
           </span>
         </h1>
@@ -94,18 +93,15 @@ const Home = () => {
         />
       </section>
       <section className="py-40 text-center">
-
         <div className="justify-center items-center text-justify">
           <TextReveal
-            className={cn(
-              "[px-0]"
-            )}
-            text="Switch to Gigatel Communication today and experience the difference of truly fast and reliable internet. Sign up now and get your first month free!"
+            className={cn("[px-0]")}
+            text="Switch to GigaZone Communication today and experience the difference of truly fast and reliable internet. Sign up now and get your first month free!"
           />
         </div>
       </section>
     </>
   );
-}
+};
 
-export default Home
+export default Home;
