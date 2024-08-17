@@ -17,7 +17,7 @@ const App = () => {
               {/* <Package2 className="h-6 w-6" /> */}
               <img
                 className="h-10 w-auto"
-                src="src\assets\1transparent.png"
+                src="src\assets\transparent2.png"
                 alt="GigaZone Logo"
               />
               <span className="sr-only">WifiWala</span>
