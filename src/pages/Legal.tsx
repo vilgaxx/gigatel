@@ -98,7 +98,8 @@ const Legal = () => {
             case-to-case basis, as needed. In case of billing disputes, GigaZone
             subscribers are required to email their specific concerns and the
             same will be addressed in 4-8 weeks, by way of a discount/credit
-            note passed in the account of the 'subscriber'.
+            note passed in the account of the 'subscriber'. Refund will be
+            credited within 4-8 weeks in your original payment method.
           </p>
           <h4>Privacy Policy</h4>
           <p className="py-10 text-lg w-4/5 mx-auto text-justify">

@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     <>
-      <header className="sticky top-0 h-20 items-center bg-background px-4 md:px-36">
+      <header className="sticky top-0 h-20 items-center px-4 md:px-36 supports-backdrop-blur:bg-background/90 z-40 w-full bg-background/40 backdrop-blur-lg">
         <nav className="hidden flex-col  text-lg font-medium md:flex md:flex-row md:items-center md:text-sm  justify-between">
           <div className="mb-4 mt-2">
             <Link
@@ -17,7 +17,7 @@ const App = () => {
               {/* <Package2 className="h-6 w-6" /> */}
               <img
                 className="h-10 w-auto"
-                src="https://raw.githubusercontent.com/vilgaxx/gigatel/main/src/assets/transparent2.png"
+                src="/src/assets/artboard.png"
                 alt="GigaZone Logo"
               />
               <span className="sr-only">WifiWala</span>
@@ -46,7 +46,7 @@ const App = () => {
               to="/legal"
               className="text-muted-foreground transition-colors hover:text-foreground"
             >
-              Legals
+              privacy policy
             </Link>
             <Link
               to="/terms"
@@ -76,7 +76,7 @@ const App = () => {
                 {/* <Package2 className="h-6 w-6" /> */}
                 <img
                   className="h-14 w-auto mb-2 "
-                  src="src\assets\1transparent.png"
+                  src="/src/assets/artboard.png"
                   alt="GigaZone Logo"
                 />
 
@@ -101,7 +101,7 @@ const App = () => {
                 to="/legals"
                 className="text-muted-foreground hover:text-foreground"
               >
-                Legals
+                privacy policy
               </Link>
               <Link
                 to="/terms"
